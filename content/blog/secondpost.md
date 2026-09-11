@@ -1,16 +1,16 @@
 ---
-title: This is my second post with a much longer title.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
-tags: number 2
+title: Game Journal 2
+description: Week 2 of Game dev journal
+date: 09/10/26
+tags: Journal 2
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+This week we were going through our project and figuring out our player goals. What do we want the player to feel and what are the short and long term goals for the player?
+
+We want to go for a goal for a number to hit for a certain stat to unlock a new power which gives the player something to look forward to. We want the players to feel like they are going after something as well as being able to use that new power with their teammates.
+
+I worked on the player stat screen and I went for a castle crashers style stat screen but my goal is to add a certain indicator that shows the player what number they need to hit to get that power.
 
 ## Section Header
 
-<a href="/blog/firstpost.md">First post</a>
-<a href="blog/thirdpost.md">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+<a href="/blog/firstpost.md">
