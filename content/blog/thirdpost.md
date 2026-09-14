@@ -1,42 +1,17 @@
 ---
 title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
-tags: ["second tag", "posts with two tags"]
+description: This is from the third week of developing Elemental Dungeon
+date: 2026-09-14
+tags: ["character select"]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Code
+This week I worked on implementing a character select screen with the two players we currently have set up. I implemented a few new scenes and created the UI for the scene and a working version of the character select that works locally.
 
-### This is a very long heading that I want to wrap This is a very long heading that I want to wrap This is a very long heading that I want to wrap This is a very long heading that I want to wrap
+Potentially in the future the system that allows you to select the player could change depending on the amount of players. This week's blockers were implementing the right UI sizing and ordering and learning how to use wrapi.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Image
 
-```js
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
-
-### Heading with a [link](#code)
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-```
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+<img src="/img/screenshot-2026-09-14-131952.png" alt="Character select screen">
 
 ## Section Header
 
