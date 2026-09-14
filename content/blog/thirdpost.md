@@ -1,5 +1,5 @@
 ---
-title: This is my third post.
+title: Game Journal 3
 description: This is from the third week of developing Elemental Dungeon
 date: 2026-09-14
 tags: ["character select"]
