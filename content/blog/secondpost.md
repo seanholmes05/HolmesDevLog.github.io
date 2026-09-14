@@ -1,7 +1,7 @@
 ---
 title: Game Journal 2
 description: Week 2 of Game dev journal
-date: 09/10/26
+date: 2026-09-10
 tags: Journal 2
 ---
 
