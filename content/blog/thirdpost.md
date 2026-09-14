@@ -11,7 +11,7 @@ Potentially in the future the system that allows you to select the player could 
 
 ## Image
 
-<img src="/img/screenshot-2026-09-14-131952.png" alt="Character select screen">
+<img src="../../img/screenshot-2026-09-14-131952.png" alt="Character select screen">
 
 ## Section Header
 
