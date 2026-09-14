@@ -11,8 +11,6 @@ We want to go for a goal for a number to hit for a certain stat to unlock a new 
 
 I worked on the player stat screen and I went for a castle crashers style stat screen but my goal is to add a certain indicator that shows the player what number they need to hit to get that power.
 
-small change
-
 ## Section Header
 
 <a href="/blog/firstpost.md">
