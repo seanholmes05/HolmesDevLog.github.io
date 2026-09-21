@@ -1,16 +1,18 @@
 ---
-title: This is my fourth post
-description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
-tags: second tag
+title: Game dev week 4 Post
+description: This is an overview of game development for week 4 of elemental dungeon
+date: 2026-09-20
+tags:
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+This week was a hard week as far as the learning curve. Implementing the multiplayer and controller support was something I did not have much experience in but after a while I was able to get it fully implemented. I had various different resources that helped me and many helpful videos
 
-<img src="./possum.png" alt="A possum parent and two possum kids hanging from the iconic red balloon">
+This week's estimated time was much less than the actual amount of time spent on the task. I was struggling getting the game to recognize the player and the device input as being separate things because the way it was set up originally player 1 was always keyboard and the other players could be both. But now that does not have to be the case.
 
-## Section Header
+Communication within the team has been good and updates are still constant withing the team. The content I have been pushing has been useable and tested before allowing it to make it to the GitHub.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+<img src="MultiplayerGameplay.png" alt="Character Select screen for multiplayer gameplay addition">
 
+## Controller Support
+
+Added controller support for a wider audience experience
