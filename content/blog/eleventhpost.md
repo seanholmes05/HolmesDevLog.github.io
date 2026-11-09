@@ -8,6 +8,10 @@ This week on elemental dungeon we had the milestone done but still had the upcom
 
 This week I worked around 8 hours in total before friday which was more than the 4-6 I had estimated. But there was a lot that needed done and we were able to achieve it all for the playtest because we felt that was the most important thing that we needed to do.
 
+## Gold Star
+
+This week I think Cole deserves a gold star because his additions these week were very crucial to getting everything playtested and it all turned out great.
+
 ## Maze
 
 The maze was having an issue with the players getting stuck on each other at the exit so I needed to put it where the players are able to pass through each other in the maze for them to be all able to reach the exit
